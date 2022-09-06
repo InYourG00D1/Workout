@@ -112,15 +112,60 @@
 	<td>34.</td><td><img src="https://media2.giphy.com/media/srRZG7db7u7hBc8m9w/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>WALL HANDSTAND PUSH UPS</td>
         </tr>
 <tr> 
-	<td>35.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>35.</td><td><img src="https://media4.giphy.com/media/LNMRALG2RW3sxqoEqZ/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>PISTOL SQUATS</td>
 	</tr> 
 <tr> 
-	<td>36.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>36.</td><td><img src="https://media3.giphy.com/media/tHtOvxhloSLR4OGBby/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>BOX DIPS</td>
 	</tr> 
 <tr> 
-	<td>37.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>37.</td><td><img src="https://media3.giphy.com/media/MOSztS7dDI6SU3Wwsp/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>TOES TO BAR</td>
 	</tr> 
 <tr> 
-	<td>38.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>38.</td><td><img src="https://media1.giphy.com/media/ii1Y4iopQaNEPGlrk6/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>ARCHER PUSH UPS</td>
+        </tr>
+<tr> 
+	<td>39.</td><td><img src="https://media4.giphy.com/media/ABqauOCEKRMwlwF9fh/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>ADVANCED PIKE PUSH UPS</td>
+	</tr> 
+<tr> 
+	<td>40.</td><td><img src="https://media1.giphy.com/media/XLjCshIsaGJ9nXXEfH/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>DRAGON FLAG</td>
+	</tr> 
+<tr> 
+	<td>41.</td><td><img src="https://media3.giphy.com/media/wXOHsYiaN5RFZL5fd7/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>FROG STAND</td>
+        </tr>
+<tr> 
+	<td>42.</td><td><img src="https://media3.giphy.com/media/lJSTIzyeBzita0sLdR/200.webp?cid=ecf05e47a1ceeoe3jtld3xljhhne6fb9lg616uqlc4zva4c2&rid=200.webp&ct=g" width="300" height="200"/></td><td>BURPEES WITH HIGH JUMPS</td>
+	</tr> 
+<tr> 
+	<td>43.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>44.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+        </tr>
+<tr> 
+	<td>45.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>46.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>47.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+        </tr>
+<tr> 
+	<td>48.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>49.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>50.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+        </tr>
+<tr> 
+	<td>51.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>52.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>53.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
         </tr>
 </table>
