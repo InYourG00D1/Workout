@@ -16,7 +16,7 @@
 <td>1.</td><td><img src="https://media0.giphy.com/media/b2bKOZEp5UyWWGjKbN/giphy.gif?cid=790b7611be71d35510154233676c8440ec0be3cc991d581f&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>VX-UPS</td>
         </tr>
  <tr>
-	<td>2.< /td><td><img src="https://media3.giphy.com/media/quWToTlHy2DEv4RxXN/200.webp?cid=ecf05e471z9dc8f5715of3vexrj4t9mq1ili1pd41q9t4o2d&rid=200.webp&ct=g" width="300" height="200"/></td><td>LEG RAISED CRUNCH</td>
+	<td>2.</td><td><img src="https://media3.giphy.com/media/quWToTlHy2DEv4RxXN/200.webp?cid=ecf05e471z9dc8f5715of3vexrj4t9mq1ili1pd41q9t4o2d&rid=200.webp&ct=g" width="300" height="200"/></td><td>LEG RAISED CRUNCH</td>
 	</tr>
 	<tr>
 	<td>3.</td><td><img src="https://media2.giphy.com/media/IuuQHhVZ6zVmiyUUzh/200.webp?cid=ecf05e471z9dc8f5715of3vexrj4t9mq1ili1pd41q9t4o2d&rid=200.webp&ct=g" width="300" height="200"/></td><td>FLUTTER KICK</td>
@@ -103,13 +103,13 @@
 	<td>31.</td><td><img src="https://media3.giphy.com/media/32rB48r4PKUzjgNL8Z/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>SIT UPS</td>
 	</tr> 
 <tr> 
-	<td>32.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>32.</td><td><img src="https://media4.giphy.com/media/wn14S11PcgkhDg4fHs/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>biceps</td>
 	</tr> 
 <tr> 
-	<td>33.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
-	</tr> 
+	<td>33.</td><td><img src="https://media4.giphy.com/media/wn14S11PcgkhDg4fHs/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=go" width="300" height="200"/></td><td>TRICEPS EXTENSSIONS</td>
+	</tr>
 <tr> 
-	<td>34.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>34.</td><td><img src="https://media2.giphy.com/media/srRZG7db7u7hBc8m9w/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>WALL HANDSTAND PUSH UPS</td>
         </tr>
 <tr> 
 	<td>35.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
