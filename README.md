@@ -79,24 +79,48 @@
 	<td>22.</td><td><img src="https://media0.giphy.com/media/GGfqjb6wTEYHtIdj2O/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>INCLINED PUSH UPS</td>
   </tr>
 	</tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>24.</td><td><img src="https://media2.giphy.com/media/BwQGVl6cW6xwJlN1Jo/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>IN AND OUTS</td>
 	</tr> 
    <tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>25.</td><td><img src="https://media2.giphy.com/media/m9psC0oUeLFnzgZb0J/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>DIVEBOMBER PUSH UPS</td>
 	</tr> 
 	<tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>26.</td><td><img src="https://media2.giphy.com/media/srOogZJmCOFkymR1jo/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>DIAMOND PUSH UPS</td>
 	</tr> 
 <tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>27.</td><td><img src="https://media4.giphy.com/media/l2UmZKQWH1TiGIMufe/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>CLAPPING PUSH UPS</td>
 	</tr> 
 <tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>28.</td><td><img src="https://media0.giphy.com/media/eyOxkott8DkMgDEDhB/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>SQUATS</td>
 	</tr> 
 <tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>29.</td><td><img src="https://media2.giphy.com/media/DvFX52fSrzLZGsYmga/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>biceps</td>
 	</tr> 
 <tr> 
-	<td>23.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
-</tr>
+	<td>30.</td><td><img src="https://media2.giphy.com/media/DvFX52fSrzLZGsYmga/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>DELINE PUSH UPS</td>
+       </tr>
+<tr> 
+	<td>31.</td><td><img src="https://media3.giphy.com/media/32rB48r4PKUzjgNL8Z/200.webp?cid=ecf05e47r2xq3b73eigqd99458zxslhd7ok0x96r6djz7yll&rid=200.webp&ct=g" width="300" height="200"/></td><td>SIT UPS</td>
+	</tr> 
+<tr> 
+	<td>32.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>33.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>34.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+        </tr>
+<tr> 
+	<td>35.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>36.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>37.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	</tr> 
+<tr> 
+	<td>38.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+        </tr>
 </table>
