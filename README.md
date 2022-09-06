@@ -166,6 +166,6 @@
 	<td>52.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
 	</tr> 
 <tr> 
-	<td>53.</td><td><img src="o" width="300" height="200"/></td><td>biceps</td>
+	<td>53.</td><td><img src="" width="300" height="200"/></td><td>biceps</td>
         </tr>
 </table>
