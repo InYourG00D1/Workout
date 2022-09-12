@@ -15,4 +15,16 @@
 	<tr>
 <td>Bowo</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
         </tr>
+	<tr>
+<td>Wahyu</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
+        </tr>
+	<tr>
+<td>Mirsya</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
+        </tr>
+	<tr>
+<td>Ragil</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
+        </tr>
+	<tr>
+<td>Bagus</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
+        </tr>
  </table>
