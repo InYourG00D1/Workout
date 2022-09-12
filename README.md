@@ -1,4 +1,4 @@
-# Workout
+# GoToJepun
 <h1 align="center"> <img src="https://c.tenor.com/OcLW6D3ivkoAAAAi/kiss-exercise.gif" widht="100" height="200"></h1>
 <h2 align="center"> Go To Jepun </h2>
 <p>Instagram : <td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Here</a></td></p>
