@@ -22,9 +22,9 @@
 <td>Mirsya</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
         </tr>
 	<tr>
-<td>Ragil</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
+<td>Ragil</td><td>5k</td><td>5k</td><td>5k</td><td>10k</td><td>-</td>
         </tr>
 	<tr>
-<td>Bagus</td><td>5k</td><td>-</td><td>-</td><td>-</td><td>-</td>
+<td>Bagus</td><td>5k</td><td>10k</td><td>-</td><td>-</td><td>-</td>
         </tr>
  </table>
